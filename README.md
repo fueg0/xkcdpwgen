@@ -14,7 +14,11 @@ as passwords) yet have a large enough sample size that an enormous amount of uni
 
 ## Usage
 
-The script itself can be run with a format as follows: either an argument-less command like `./xkcdpwgen`, or one with flags such as `./xkcdpwgen -w 4 -n 2 -s 1 -c 0` are allowed  
+The script itself can be run with a format as follows:  
+either an argument-less command like `./xkcdpwgen`  
+or one with flags such as `./xkcdpwgen -w 4 -n 2 -s 1 -c 0` are allowed  
+
+
 In the flag form, `-w` is the number of words, `-n` is how many numbers you would like included, `-s` is the amount of special characters you would like, and `-c` is the value of how many words from `-w` you would like to start with a capital letter
 
 If the script is executed simply as `./xkcdpwgen` then the default values are `w=4` `n=0` `s=0` `c=0`
