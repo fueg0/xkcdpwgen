@@ -1,6 +1,6 @@
 # xkcdpwgen
 
-by Nicholas Fiorito  / github.com/fueg0
+by Nicholas Fiorito  / [github.com/fueg0](github.com/fueg0)
 
 xkcd password generator is a password-generating script modeled after the method described in [xkcd 936](https://xkcd.com/936/)
 
